@@ -92,3 +92,7 @@ Develop a web app using Flask or Django for clinicians or caregivers
 Allow interactive data entry and display personalized recommendations
 
 Embed visualizations directly into the user interface
+
+🙌 Author
+Kehinde Obidele
+Health Informatics | Clinical Decision Support | Autism Care Advocate
